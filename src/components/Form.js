@@ -3,7 +3,7 @@ import { ToastContainer, toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 import { Oval } from "react-loader-spinner";
 import axios from "axios";
-import "../app.css";
+// import "../app.css";
 const Form = () => {
   const [userDetails, setUserDetails] = useState({
     id: "",

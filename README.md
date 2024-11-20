@@ -19,22 +19,22 @@ The **Uer Management Dashboard** is a web application that allows user to view,a
 
 ## **Tech Stack**
 
-- **Frontend**: React.js
-- **Backend**: JSONPlaceholder API (Mock API)
-- **Styling**: CSS with responsive design
+- **Frontend** : React js
+- **Backend** : JSONplaceholder api(mock api)
+- **styling**: Css with responsive design
 
 ---
 
 ## **API Endpoints (JSONPlaceholder)**
 
-1. **GET** `/users`: Fetch all users.
-2. **POST** `/users`: Simulate adding a new user.
-3. **PUT** `/users/{id}`: Simulate editing an existing user.
-4. **DELETE** `/users/{id}`: Simulate deleting a user.
+1. **GET** `/users`: Fetch all users
+2. **Post** `/users`: adding a new user
+3. **PUT** `/users/{id}`: editing a existing user
+4. **Delete** `/users/{id}`: delete a existing user
 
 ---
 
 ## **Future Improvements**
 
-- Add pagination or infinite scrolling for the user list.
-- Support dark mode for the UI.
+- Add pagination or infinite scrolling for user list.
+- Support dark mode for the UI
